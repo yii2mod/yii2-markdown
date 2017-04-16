@@ -1,0 +1,34 @@
+{
+    "name": "yii2mod/yii2-markdown",
+    "description": "Markdown Widget for Yii2",
+    "type": "yii2-extension",
+    "keywords": [
+        "yii2",
+        "yii2 markdown editor",
+        "yii2 markdown widget"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Igor Chepurnoy",
+            "email": "igorzfort@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+        "bower-asset/simplemde": "*"
+    },
+    "require-dev": {
+        "friendsofphp/php-cs-fixer": "~2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "yii2mod\\markdown\\": ""
+        }
+    },
+    "extra": {
+        "asset-installer-paths": {
+            "bower-asset-library": "vendor/bower"
+        }
+    }
+}
