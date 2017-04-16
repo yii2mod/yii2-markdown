@@ -2,7 +2,6 @@ Markdown Widget for Yii 2
 =========
 Widget based on [simplemde-markdown-editor](https://github.com/NextStepWebs/simplemde-markdown-editor) 
 
-[![License](https://poser.pugx.sdorg/yii2mod/yii2-markdown/license)](https://packagist.org/packages/yii2mod/yii2-markdown)
 [![Build Status](https://travis-ci.org/yii2mod/yii2-markdown.svg?branch=master)](https://travis-ci.org/yii2mod/yii2-markdown)
 
 Installation 
