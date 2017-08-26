@@ -8,6 +8,9 @@
 
 Widget based on [simplemde-markdown-editor](https://github.com/NextStepWebs/simplemde-markdown-editor) 
 
+[![Latest Stable Version](https://poser.pugx.org/yii2mod/yii2-markdown/v/stable)](https://packagist.org/packages/yii2mod/yii2-markdown)
+[![Total Downloads](https://poser.pugx.org/yii2mod/yii2-markdown/downloads)](https://packagist.org/packages/yii2mod/yii2-markdown)
+[![License](https://poser.pugx.org/yii2mod/yii2-markdown/license)](https://packagist.org/packages/yii2mod/yii2-markdown)
 [![Build Status](https://travis-ci.org/yii2mod/yii2-markdown.svg?branch=master)](https://travis-ci.org/yii2mod/yii2-markdown)
 
 Installation 
