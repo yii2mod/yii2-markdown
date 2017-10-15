@@ -6,7 +6,7 @@
     <br>
 </p>
 
-Widget based on [simplemde-markdown-editor](https://github.com/NextStepWebs/simplemde-markdown-editor) 
+Widget based on [SimpleMDE - Markdown Editor](https://github.com/sparksuite/simplemde-markdown-editor) 
 
 [![Latest Stable Version](https://poser.pugx.org/yii2mod/yii2-markdown/v/stable)](https://packagist.org/packages/yii2mod/yii2-markdown)
 [![Total Downloads](https://poser.pugx.org/yii2mod/yii2-markdown/downloads)](https://packagist.org/packages/yii2mod/yii2-markdown)
@@ -57,4 +57,4 @@ Once the extension is installed, simply add widget to your page as follows:
 
 Markdown Editor Options 
 ----------------
-You can find them on the [options page](https://github.com/NextStepWebs/simplemde-markdown-editor#configuration)
+You can find them on the [options page](https://github.com/sparksuite/simplemde-markdown-editor#configuration)
