@@ -6,7 +6,7 @@
     <br>
 </p>
 
-Widget based on [SimpleMDE - Markdown Editor](https://github.com/sparksuite/simplemde-markdown-editor) 
+Widget based on [SimpleMDE - Markdown Editor](https://simplemde.com/) 
 
 [![Latest Stable Version](https://poser.pugx.org/yii2mod/yii2-markdown/v/stable)](https://packagist.org/packages/yii2mod/yii2-markdown)
 [![Total Downloads](https://poser.pugx.org/yii2mod/yii2-markdown/downloads)](https://packagist.org/packages/yii2mod/yii2-markdown)
