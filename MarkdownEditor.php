@@ -53,7 +53,7 @@ class MarkdownEditor extends InputWidget
      */
     protected function getEditorOptions()
     {
-        $this->editorOptions['element'] = new JsExpression('$("#' . $this->id . '")[0]');
+        $this->editorOptions['element'] = new JsExpression('document.getElementById("' . $this->options['id'] . '")');
 
         return Json::encode($this->editorOptions);
     }
